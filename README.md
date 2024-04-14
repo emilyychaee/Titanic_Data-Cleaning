@@ -1,1 +1,1 @@
-# ITP487_Titanic
+# Titanic Data Cleaning
